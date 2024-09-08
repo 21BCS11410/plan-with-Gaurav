@@ -16,8 +16,8 @@ This project is a front-end application built using React.js that displays vario
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate into the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/21BCS11410/plan-with-Gaurav.git`
+2. Navigate into the project directory: `cd plan-with-Gaurav`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
